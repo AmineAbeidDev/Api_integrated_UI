@@ -1,0 +1,1 @@
+run "start.sh" in the backend then open the flutter UI to fetch data from the API
